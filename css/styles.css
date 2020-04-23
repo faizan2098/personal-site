@@ -93,16 +93,16 @@ link:hover {
   position: absolute;
   left: 125px;
   bottom: 345px;
-  width: 280px;
-  height: 280px;
+  width: 150x;
+  height: 150px;
 }
 
 .top-cloud {
   position: absolute;
   right: 180px;
   top: 40px;
-  width: 280px;
-  height: 280px;
+  width: 150px;
+  height: 150px;
 }
 
 .intro {
